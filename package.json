@@ -1,0 +1,18 @@
+{
+  "name": "dbl.fr",
+  "version": "1.0.0",
+  "description": "discordbot.fr",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "exemple/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kayabastream/dbl.fr-api"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "DoctaEnkoda",
+  "license": "MIT"
+}
